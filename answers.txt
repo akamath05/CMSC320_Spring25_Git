@@ -8,3 +8,8 @@ Answer: Data Science could be applied to the field of entertainment, such as Net
 we could use data science to see how consumers react to certain types of shows, and find out what will
 gain the most engagement with the platform.
 
+Q3: What is the difference between Merging and Rebasing?
+
+Answer: Merging combines branches by creating a new commit that joins the histories, whereas
+rebasing applies your branch commits on top of the target branch.
+
