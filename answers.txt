@@ -1,5 +1,0 @@
-Q2: What field could data science be applied to? Give an Example.
-
-Answer: Data Science could be applied to the field of entertainment, such as Netflix. With Netflix,
-data science could be used to find out how consumers react to certain types of media, and what shows
-provide the most engagement with the platform.
